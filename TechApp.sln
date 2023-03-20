@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TechApp", "TechApp\TechApp.csproj", "{CF025F4A-DE5F-4E27-B60A-17B22D3FA077}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SideApp", "SideApp\SideApp.csproj", "{B53DAC67-4EA6-409B-9F5E-9DFC5B48A28A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF025F4A-DE5F-4E27-B60A-17B22D3FA077}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF025F4A-DE5F-4E27-B60A-17B22D3FA077}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF025F4A-DE5F-4E27-B60A-17B22D3FA077}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF025F4A-DE5F-4E27-B60A-17B22D3FA077}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B53DAC67-4EA6-409B-9F5E-9DFC5B48A28A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B53DAC67-4EA6-409B-9F5E-9DFC5B48A28A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B53DAC67-4EA6-409B-9F5E-9DFC5B48A28A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B53DAC67-4EA6-409B-9F5E-9DFC5B48A28A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
